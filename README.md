@@ -1,2 +1,2 @@
-# legal
-Conforming to legal requirements 
+# A Better Me Legal Requirements
+These pages will be directly referenced.
